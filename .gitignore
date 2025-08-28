@@ -1,0 +1,20 @@
+# Arduino / C++
+*.hex
+*.eep
+*.elf
+*.bin
+
+# Build / IDE
+.build/
+build/
+cmake-build-*/
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PlatformIO (if used later)
+.pio/
+.pioenvs/
+.piolibdeps/
