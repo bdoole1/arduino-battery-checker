@@ -28,6 +28,11 @@ Battery + ─ 10k ──●── 10k ── GND
 Battery − ─────────────────── GND
 ```
 
+**Images:**
+![screenshot](images/new_battery.jpeg)
+![screenshot](images/good_battery.jpeg)
+![screenshot](images/dead_battery.jpeg)
+
 **LCD (16‑pin parallel, 4‑bit mode):**
 
 - 1 **VSS** → GND
